@@ -1,6 +1,6 @@
-# OpenSourceMonitoring
+# OpenSource-Tracker
 
-Free and Open source monitoring configuration template for setting up Prometheus, Node Exporter, Grafana, and cAdvisor using Docker Compose.
+Free and Open source Tracker configuration template for setting up Prometheus, Node Exporter, Grafana, and cAdvisor using Docker Compose.
 
 ## Steps to create in your environment
 
